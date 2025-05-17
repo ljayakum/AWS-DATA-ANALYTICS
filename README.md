@@ -14,7 +14,9 @@ This project demonstrates how to build a custom Virtual Private Cloud (VPC) on A
 - Amazon Linux 2023
 
 ## Architecture Diagram
-![VPC Architecture](diagrams/vpc-architecture.png)
+![vpc and subnets](https://github.com/user-attachments/assets/af154a67-1c63-4e62-928f-fb687433a318)
+rl.png)
+
 
 ## Steps Summary
 
